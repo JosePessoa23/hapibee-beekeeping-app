@@ -3,9 +3,9 @@
 With the goal of supporting the daily tasks of beekeepers in Portugal, **HapiBee** was created — a mobile application to assist in beekeeping activities.  
 
 <p align="center">
-  <img src="docs/hapibee/app.png" alt="Model" width="200"/>
-  <img src="docs/hapibee/criarApiario.png" alt="Example" width="200"/>
-  <img src="docs/hapibee/details.png" alt="Apiary" width="200"/>
+  <img src="hapibee/docs/app.png" alt="Model" width="200"/>
+  <img src="hapibee/docs/criarApiario.png" alt="Example" width="200"/>
+  <img src="hapibee/docs/details.png" alt="Apiary" width="200"/>
 </p>
 
 ---
