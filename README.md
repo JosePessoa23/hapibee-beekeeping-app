@@ -1,6 +1,6 @@
 # 🐝 HapiBee – Beekeeping Support Application
 
-With the goal of supporting the daily tasks of beekeepers in Portugal, **HapiBee** was created — a mobile application to assist in beekeeping activities.  
+With the goal of supporting the daily tasks of beekeepers in Portugal, **HapiBee** was created, a mobile application to assist in beekeeping activities.  
 
 <p align="center">
   <img src="hapibee/docs/app.png" alt="Model" width="200"/>
